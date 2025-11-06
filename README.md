@@ -49,7 +49,7 @@ This repository contains four comprehensive analog circuit design exercises, eac
 - Trade-off analysis between gain, bandwidth, and power
 - Detailed component selection rationale
 
-[**→ Full Documentation**](Exercise_1_WiFi6_Baseband_Amplifier/README.md)
+
 
 ---
 
@@ -75,7 +75,6 @@ This repository contains four comprehensive analog circuit design exercises, eac
 - Systematic transistor sizing methodology
 - DC and AC sweep analysis for optimization
 
-[**→ Full Documentation**](Exercise_2_Low_Power_Sensor_Amplifier/README.md)
 
 ---
 
@@ -104,7 +103,6 @@ This repository contains four comprehensive analog circuit design exercises, eac
 - Excellent CMRR (65.6 dB)
 - Slew rate: 5.13 V/µs
 
-[**→ Full Documentation**](Exercise_3_OTA/README.md)
 
 ---
 
@@ -136,7 +134,6 @@ This repository contains four comprehensive analog circuit design exercises, eac
 - CMRR: 6.2 KdB (extremely high)
 - Slew rate: 0.88 V/µs
 
-[**→ Full Documentation**](Exercise_4_Fully_Differential_Amplifier/README.md)
 
 ---
 
